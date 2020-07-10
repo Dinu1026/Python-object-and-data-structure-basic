@@ -1,7 +1,6 @@
  #1.) Types of Numbers in Python
 #2.) Basic Arithmetic
 #3.) Differences between classic division and floor division
-# 4.)Object Assignment in Python
 #lets start with basic aritmatic
   
 # Addition
